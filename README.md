@@ -45,7 +45,7 @@
 <br>
 <br>
 
-<img src="http://localhost:4000/api/spoti"/>
+<img src="https://fendpoint.now.sh/api/spoti"/>
 
 # Github Status
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=FajarTheGGman&show_icons=true&hide_border=true"/>
