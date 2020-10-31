@@ -12,7 +12,7 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 
-
+<br>
 
 
 ### Databases
@@ -21,7 +21,7 @@
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 
 
-
+<br>
 
 
 ### Tools and OS
