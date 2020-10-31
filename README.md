@@ -1,4 +1,4 @@
-<img align="left" alt="Node.js" width="226px" src="https://media.giphy.com/media/l3q2BAs9N0IItUKA0/giphy.gif" />
+<img align="left" alt="Node.js" width="36px" src="https://media.giphy.com/media/l3q2BAs9N0IItUKA0/giphy.gif" />
 <br>
 <br>
 
