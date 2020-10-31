@@ -2,7 +2,7 @@
 
 [![Website](http://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge)](https://fajarfirdaus.now.sh) [![Instagram](http://img.shields.io/badge/Instagram-FajarTheGGman-red?style=for-the-badge)](https://instagram.com/FajarTheGGman)
 
-### Programming Languange
+### Programming Languange 💻
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -25,7 +25,7 @@
 <br>
 <br>
 
-### Tools and OS
+### Tools and OS ⚒
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
@@ -35,6 +35,6 @@
 <br>
 <br>
 
-### Microcontroller
+### Microcontroller ⚙
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="Nodemcu" width="26px" src="https://harleygn.net/images/esp8266_nodemcu.png" />
