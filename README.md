@@ -13,16 +13,12 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 
 <br>
-<br>
-<br>
 
 ### Databases
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 
-<br>
-<br>
 <br>
 
 ### Tools and OS ⚒
@@ -31,8 +27,6 @@
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
-<br>
-<br>
 <br>
 
 ### Microcontroller ⚙
