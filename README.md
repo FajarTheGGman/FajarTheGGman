@@ -39,7 +39,7 @@
 <br>
 
 ### Microcontroller ⚙
-<img align="left" alt="Arduino" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+<img align="left" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="Nodemcu" width="56px" src="https://harleygn.net/images/esp8266_nodemcu.png" />
 
 <br>
