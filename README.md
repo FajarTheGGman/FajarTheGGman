@@ -25,7 +25,7 @@
 
 ### Databases
 
-<img align="left" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 
 <br>
@@ -39,7 +39,7 @@
 <br>
 
 ### Microcontroller ⚙
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+<img align="left" alt="Arduino" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="Nodemcu" width="56px" src="https://harleygn.net/images/esp8266_nodemcu.png" />
 
 <br>
