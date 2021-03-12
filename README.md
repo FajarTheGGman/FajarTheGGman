@@ -51,8 +51,6 @@
 
 ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
 
-<img src="https://fendpoint.now.sh/api/spoti"/>
-
 # Github Status
 
 ![](https://github-readme-stats.vercel.app/api?username=FajarTheGGman&theme=highcontrast&show_icons=true)
