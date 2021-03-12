@@ -50,4 +50,4 @@
 <img src="https://fendpoint.now.sh/api/spoti"/>
 
 # Github Status
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=FajarTheGGman&show_icons=true&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=FajarTheGGman&theme=highcontrast&show_icons=true)
