@@ -50,4 +50,9 @@
 <img src="https://fendpoint.now.sh/api/spoti"/>
 
 # Github Status
+
 ![](https://github-readme-stats.vercel.app/api?username=FajarTheGGman&theme=highcontrast&show_icons=true)
+
+# Github Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=FajarTheGGman&theme=dracula)
