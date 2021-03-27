@@ -7,7 +7,7 @@
 ## i'am a software engineer and computer science students 
 
 
-[![Website](http://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge)](https://fajarfirdaus.now.sh) [![Instagram](http://img.shields.io/badge/Instagram-FajarTheGGman-red?style=for-the-badge)](https://instagram.com/FajarTheGGman)
+[![Website](http://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge)](https://fajarfirdaus.now.sh) [![Instagram](http://img.shields.io/badge/Instagram-Kernel024-red?style=for-the-badge)](https://instagram.com/kernel024)
 
 # This is Skill i have learned ⬇
 
