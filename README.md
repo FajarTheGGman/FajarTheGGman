@@ -4,10 +4,14 @@
 
 # Sup Dude, Wellcome to my github  👋 
 ## My real name is Fajar Firdaus 
-## Computer science students 
+## Computer science students And Software Engineer
 
 
 [![Website](http://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge)](https://fajarfirdaus.now.sh) [![Instagram](http://img.shields.io/badge/Instagram-Kernel024-red?style=for-the-badge)](https://instagram.com/kernel024)
+
+
+<br>
+<br>
 
 # This is Skill i have learned ⬇
 
@@ -22,6 +26,7 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 <br>
+<br>
 
 ### Frameworks
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -35,6 +40,8 @@
 <img align="left" alt="NuxtJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png?raw=true" />
 
+<br>
+<br>
 
 ### Databases
 
