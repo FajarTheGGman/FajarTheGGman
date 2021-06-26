@@ -74,7 +74,7 @@
 <br>
 <br>
 
-# My Spotify
+# What i'am listening to
 
 ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
 
