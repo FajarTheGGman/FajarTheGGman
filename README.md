@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# Sup Dude, Wellcome to my github  👋 
+# Sup Mate, Wellcome to my github  👋 
 ## My real name is Fajar Firdaus 
 ## Computer science students
 
