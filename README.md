@@ -4,7 +4,7 @@
 
 # Sup Mate, Wellcome to my github  👋 
 ## My real name is Fajar Firdaus 
-## Computer science students
+## Software Engineer
 
 
 [![Website](http://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge)](https://fajarfirdaus.now.sh) [![Instagram](http://img.shields.io/badge/Instagram-Kernel024-red?style=for-the-badge)](https://instagram.com/kernel024)
