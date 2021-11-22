@@ -7,7 +7,7 @@
 ## Software Engineer
 
 
-[![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=nextdotjs)](https://fajarfirdaus.now.sh) [![Instagram](https://img.shields.io/badge/Instagram-fajartheggman-white?style=for-the-badge&logo=instagram)](https://instagram.com/fajartheggman)
+[![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=vercel)](https://fajarfirdaus.now.sh) [![Instagram](https://img.shields.io/badge/Instagram-fajartheggman-white?style=for-the-badge&logo=instagram)](https://instagram.com/fajartheggman)
 
 # This is Skill i have learned ⬇
 
