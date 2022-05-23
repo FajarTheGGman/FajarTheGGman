@@ -1,6 +1,4 @@
 <img align="left" alt="Node.js" width="226px" top="30px" src="https://media.giphy.com/media/l3q2BAs9N0IItUKA0/giphy.gif" />
-<br>
-<br>
 
 # Sup Mate, Wellcome to my github  👋 
 ## My real name is Fajar Firdaus 
