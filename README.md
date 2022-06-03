@@ -4,8 +4,11 @@
 ## My real name is Fajar Firdaus 
 ## Software Engineer
 
-
 [![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=vercel)](https://fajarfirdaus.now.sh) [![Instagram](https://img.shields.io/badge/Instagram-fajartheggman-white?style=for-the-badge&logo=instagram)](https://instagram.com/fajartheggman)
+
+<br>
+<br>
+<br>
 
 # This is Skill i have learned ⬇
 
