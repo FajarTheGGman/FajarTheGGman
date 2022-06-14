@@ -1,15 +1,9 @@
-<img align="left" alt="Node.js" width="226px" top="30px" src="https://media.giphy.com/media/l3q2BAs9N0IItUKA0/giphy.gif" />
 
 # Sup Mate, Wellcome to my github  👋 
 ## My real name is Fajar Firdaus 
 ## Software Engineer
 
 [![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=vercel)](https://fajarfirdaus.now.sh) [![Instagram](https://img.shields.io/badge/Instagram-fajartheggman-white?style=for-the-badge&logo=instagram)](https://instagram.com/fajartheggman)
-
-<br>
-<br>
-<br>
-<br>
 
 # This is Skill i have learned ⬇
 
