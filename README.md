@@ -4,7 +4,7 @@
 ## My real name is Fajar Firdaus 
 ## Software Engineer
 
-[![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=vercel)](https://fajarfirdaus.now.sh) [![Instagram](https://img.shields.io/badge/Instagram-fajartheggman-white?style=for-the-badge&logo=instagram)](https://instagram.com/fajartheggman) ![](https://komarev.com/ghpvc/?username=FajarTheGGman&style=for-the-badge)
+[![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=vercel)](https://fajarfirdaus.now.sh) [![Instagram](https://img.shields.io/badge/Instagram-fajar.tech-white?style=for-the-badge&logo=instagram)](https://instagram.com/fajar.tech) ![](https://komarev.com/ghpvc/?username=FajarTheGGman&style=for-the-badge)
 
 
 # This is Skill i have learned ⬇
