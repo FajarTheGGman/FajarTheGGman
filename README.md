@@ -72,7 +72,7 @@
 <br>
 <br>
 
-# What i'am listening to
+# What i'am listening to <img src="https://github.com/github/explore/blob/main/topics/spotify/spotify.png?raw=true" width="3%" />
 
 ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
 
