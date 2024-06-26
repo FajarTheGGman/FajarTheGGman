@@ -74,7 +74,7 @@
 
 # What i'am listening to <img src="https://github.com/github/explore/blob/main/topics/spotify/spotify.png?raw=true" width="3%" />
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true)
 
 # Github Status
 
